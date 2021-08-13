@@ -1,5 +1,9 @@
+/models
 /negativas
 /positivas
 /treinamento
-/models
+negativas.txt
+saida.txt
 DetectarRosto.py
+analise04.jpeg
+analise05.jpg
